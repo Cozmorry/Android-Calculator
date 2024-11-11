@@ -23,5 +23,5 @@ Make sure you have the following installed on your machine:
 
 ### Steps to Run the App
 
-1. Download the APK file.
+1. Download the APK file (click on it and then click "view raw" on the next page.
 2. Install it and enjoy.
